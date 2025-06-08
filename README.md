@@ -31,7 +31,7 @@ docker run -e PORT=5000 -p <HOST_PUBLIC_IP>:5000:5000 0bda0ee1faec
 ### Test
 - Test the code with `test/test.py`
 
-### Watch the video tutorial
+### For another reference and practical examples watch the video tutorial
 - How To Deploy ML Models With Google Cloud Run
 
 [![Alt text](https://img.youtube.com/vi/vieoHqt7pxo/hqdefault.jpg)](https://youtu.be/vieoHqt7pxo)
